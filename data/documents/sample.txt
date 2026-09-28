@@ -1,0 +1,9 @@
+FastAPI is a modern Python web framework used for building APIs.
+
+FastAPI is based on Python type hints and provides automatic API documentation.
+
+It supports asynchronous programming and is commonly used for backend development.
+
+LangChain is a framework for developing applications powered by language models.
+
+LangGraph is used to build stateful workflows and applications involving multiple steps.
